@@ -4,6 +4,6 @@ getButton.addEventListener('click', function () {
     fetchEmployees();
 });
 
-let fetchEmployee = () => {
+let fetchEmployees = () => {
 
 }
